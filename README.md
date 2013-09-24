@@ -1,5 +1,3 @@
-milan_glennon_class
-===================
 
 data aquired from Kibera Project OSM - http://mapkibera.org/download/
 
